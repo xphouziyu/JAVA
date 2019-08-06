@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="332739a9-7cbc-451c-ae28-7727d08966d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/XunHuan1024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="332739a9-7cbc-451c-ae28-7727d08966d4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +141,7 @@
       <workItem from="1565062944774" duration="555000" />
       <workItem from="1565078113057" duration="600000" />
       <workItem from="1565081473870" duration="3840000" />
+      <workItem from="1565112912797" duration="361000" />
     </task>
     <servers />
   </component>
