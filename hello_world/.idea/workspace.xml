@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332739a9-7cbc-451c-ae28-7727d08966d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/BreakDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/ForDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/ForDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/SL1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/SiXunHuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/WhileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/WhileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/RandomDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/XunHuan1024.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello_world/cn/houziyu/demo/ForDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_world/cn/houziyu/demo/ForDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/houziyu/demo/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/houziyu/demo/ForDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,9 +55,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BreakDemo">
-    <configuration name="BreakDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.BreakDemo" />
+  <component name="RunManager" selected="Application.RandomDemo3">
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.ForDemo" />
       <module name="hello_world" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.ForDemo3" />
+    <configuration name="RandomDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.RandomDemo1" />
       <module name="hello_world" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SiXunHuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.SiXunHuan" />
+    <configuration name="RandomDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.RandomDemo2" />
       <module name="hello_world" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.WhileDemo1" />
+    <configuration name="RandomDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.RandomDemo3" />
       <module name="hello_world" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.WhileDemo2" />
+    <configuration name="XunHuan1024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.houziyu.demo.XunHuan1024" />
       <module name="hello_world" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreakDemo" />
-        <item itemvalue="Application.SiXunHuan" />
-        <item itemvalue="Application.WhileDemo2" />
-        <item itemvalue="Application.WhileDemo1" />
-        <item itemvalue="Application.ForDemo3" />
+        <item itemvalue="Application.RandomDemo3" />
+        <item itemvalue="Application.RandomDemo2" />
+        <item itemvalue="Application.RandomDemo1" />
+        <item itemvalue="Application.XunHuan1024" />
+        <item itemvalue="Application.ForDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -149,8 +144,9 @@
       <workItem from="1564586016937" duration="4521000" />
       <workItem from="1564652165590" duration="314000" />
       <workItem from="1564998335160" duration="4262000" />
-      <workItem from="1565020775191" duration="3728000" />
-      <workItem from="1565067157548" duration="824000" />
+      <workItem from="1565062944774" duration="555000" />
+      <workItem from="1565078113057" duration="600000" />
+      <workItem from="1565081473870" duration="3840000" />
     </task>
     <servers />
   </component>
